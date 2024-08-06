@@ -1,4 +1,4 @@
-Primer Art:articulo 1
+Primer Art:
 Segundo Art:
 Tercer Art:
 Cuarto Art:
